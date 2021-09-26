@@ -1,2 +1,4 @@
 # AI-pose-Estimation-with-Python
-AI Pose Estimation with Python, OpenCV and MediaPipe. For my future reference I have added the description or explanation of the code in a README file. 
+AI Pose Estimation with Python, OpenCV and MediaPipe. 
+This code is taken from Nicolas Renotte's AI Pose Estimation with Python and MediaPipe. 
+
